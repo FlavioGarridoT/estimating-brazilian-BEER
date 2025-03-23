@@ -49,10 +49,11 @@ Plotting the graph, we get:
 Finally, we can plot the impulse response function.
 
 
-![](D:/Mestrado/Materias/Modelos macro/Trabalho final/estimating-brazilian-BEER/irf_.png)
+![](irf_.png)
 
 
-<br>
+
+
 
 The interpretation is as follows: a shock of 1 standard deviation is given to one of the variables, which
 will affect the other throughout the remaining periods. Here, all of the explanatory variables are given a shock
