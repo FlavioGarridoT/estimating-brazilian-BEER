@@ -27,6 +27,8 @@ The BEER model was estimated as:
 
 where:  
 
+**e** - the exchange rate between the real and the dollar
+
 **CDS** - credit default swap, which is used to measure risk appetite  
 
 **CRB** - commodity price index as a proxy for terms of trade  
