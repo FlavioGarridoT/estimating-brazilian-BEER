@@ -19,7 +19,9 @@ The BEER model was estimated as:
 
 <br>
 
-$log(et) = +1.06*log(CDS) -1.26*log(CRB) +1.07*log(DXY) -0.07*[log(1+i) - log(1+i*)]$  
+**log(et) = +1.06*log(CDS) -1.26*log(CRB) +1.07*log(DXY) -0.07*[log(1+i) - log(1+i*)]**
+
+
 
 <br>
 
