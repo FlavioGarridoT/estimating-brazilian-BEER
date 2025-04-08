@@ -1,7 +1,7 @@
 <br>
 <br>
 
-In this project, I aimed to estimate the brazilian Behavorial Equilibrium Exchange Rate (BEER).  
+In this project, I aimed to estimate the brazilian Behavioral Equilibrium Exchange Rate (BEER).  
 
 <br>
 
